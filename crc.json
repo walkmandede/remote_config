@@ -1,4 +1,4 @@
 {
-  "status" : false,
-  "message" : "Welcome"
+  "status" : true,
+  "message" : "Sorry, unable to connect to the server! Please, try again later."
 }
