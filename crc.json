@@ -1,4 +1,4 @@
 {
-  "status" : true,
-  "message" : "Sorry, unable to connect to the server! Please, try again later. [Err: 500: hec-2fe]"
+  "status" : false,
+  "message" : ""
 }
